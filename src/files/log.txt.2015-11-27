@@ -1,0 +1,12 @@
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.builder.Builder  - PassengerPlain was created
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.builder.Builder  - PassengerPlain was created
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.builder.Builder  - CargoPlain was created
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.builder.Builder  - CargoPlain was created
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.utils.CountAllPassengers  - Method was counted all passengers
+27.11.2015 15:30:38 [main] INFO  by.zapotylok.task1.utils.CountAllCargo  - Method was caunded weight of all cargo
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.builder.Builder  - PassengerPlain was created
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.builder.Builder  - PassengerPlain was created
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.builder.Builder  - CargoPlain was created
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.builder.Builder  - CargoPlain was created
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.utils.CountAllPassengers  - Method was counted all passengers
+27.11.2015 15:33:06 [main] INFO  by.zapotylok.task1.utils.CountAllCargo  - Method was caunded weight of all cargo
